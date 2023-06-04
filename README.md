@@ -94,7 +94,7 @@ Here are some ideas to get you started:
 <img src="https://komarev.com/ghpvc/?username=Jnoodles&&style=flat-square" align="center" />
 </div>  
   
-
+<!-- 
 <br/>  
 
 <div align="center">
@@ -104,7 +104,7 @@ Here are some ideas to get you started:
                     align="center"
                 />
             </a></div>
-<br />
+<br /> -->
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
