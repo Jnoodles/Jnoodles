@@ -22,10 +22,10 @@ Here are some ideas to get you started:
 ### <div align="center">I'm Weijie Dong, a  graduate student 👨‍💻 majoring in high energy physics(heavy ion physics) at Fudan University, Shanghai, China. 🚀</div>  
   
 
-- 🔭 I’m currently working on  relativistic heavy-ion collisions with phenomenological models.  
+- 🔭 I  worked on  relativistic heavy-ion collisions with phenomenological models during at Fudan University.  
   
 
-- 🌱 I’m currently learning machine learning and programming(C++, python and rust).  
+- 🌱 Currently, At the moment I'm working on optical algorithms, signal processing and machine learning.
   
 
 <br/>  
