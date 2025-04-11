@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 </div>  
   
 
-### <div align="center">I'm Weijie Dong, a  graduate student 👨‍💻 majoring in high energy physics(heavy ion physics) at Fudan University, Shanghai, China. 🚀</div>  
+### <div align="center">I'm Weijie Dong, a  algorithm Engineer. 🚀</div>  
   
 
 - 🔭 I  worked on  relativistic heavy-ion collisions with phenomenological models during at Fudan University.  
