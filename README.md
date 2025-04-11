@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently majoring in high energy physics at Fudan University, Shanghai.
+🔭 I was majored in high energy physics at Fudan University, Shanghai. Currently, I am an algorithm engineer.
 
 📫 How to reach me: wjdong19@fudan.edu.cn
 <!--
