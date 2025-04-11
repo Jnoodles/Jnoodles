@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - 🔭 I  worked on  relativistic heavy-ion collisions with phenomenological models during at Fudan University.  
   
 
-- 🌱 Currently, At the moment I'm working on optical algorithms, signal processing and machine learning.
+- 🌱 At the moment I'm working on optical algorithms, signal processing and machine learning.
   
 
 <br/>  
